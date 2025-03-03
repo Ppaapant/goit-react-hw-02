@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Feedback from "./components/Feedback";
 import Options from "./components/Options";
-import Description from "./components/Notification";
+import Description from "./components/Description";
 import Notification from "./components/Notification";
 
 
